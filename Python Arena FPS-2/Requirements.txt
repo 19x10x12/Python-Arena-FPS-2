@@ -1,0 +1,4 @@
+- Requirements for this game;
+
+1. Python.
+2. Python Library "ursina"  -  install by this command in your cmd / powershell: "pip install ursina".
